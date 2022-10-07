@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HannaGryka
 - 👀 I’m interested in software testing and I'm very curious about IT world 
 - 🌱 Currently, I'm learning manual testing and taking an intensive course, expanding my knowledge of project management tools, testing tools, software testing methods, new languages, and many more.
-- 💞️ I’m working on my portfolio which I'll present soon! 
+- 💞️ I’m working on my portfolio...
 - 📫 How to reach me - www.linkedin.com/in/hanna-gryka 
